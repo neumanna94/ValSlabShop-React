@@ -1,15 +1,14 @@
 # Val Slab Shop in React[Version 1]
 
 ## Table of Contents
-<ul>
-  <li>[Introduction](#introduction)</li>
-<li>[Setup/Installation](#Setup/Installation)</li>
-<li>[Known Bugs](#Known Bugs)</li>
-<li>[Support](#Support)</li>
-<li>[Notes](#Notes)</li>
-</ul>
 
-## Introduction
+- [Introduction](#introduction)
+- [Setup/Installation](#Setup/Installation)
+- [Known Bugs](#Known Bugs)
+- [Support](#Support)
+- [Notes](#Notes)
+
+## Introduction 
 Val Slab shop is a website that I plan to develop over several years. As I hope to use it to try to solve complicated web development and business problems such as how to most effectively manage orders/contact so that this website can be used effectively to make a profit for a small compnay in Oregon.
 List of Specifications:
 <ol>
