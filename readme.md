@@ -20,18 +20,31 @@ List of Specifications:
 </ol>
 I am still mastering React so the structure of my project will likely change and I might approach this project entirely differently in the next few weeks to months..
 
-<h3> The Current Structure of the Project </h3>
 <p align="center">
+  <h3> The Current Structure of the Project </h3>
   <strong>Image of the component structure of Val Slab Shop React Version </strong> 
   <img src = https://github.com/neumanna94/ValSlabShop-React/blob/master/Images/ValSlabShop%20Component%20Map.jpg?raw=true" width=700>
+  <br>
   Currently ,this application does not utilize state, however in version two, which will be submitted for the second week it will   implemenet state and allow the admin user to manage slabs, and contact requests.
 </p>
 
 
 ## Setup/Installation
 
+First, clone from `https://github.com/neumanna94/ValSlabShop-React`
+
+```sh
+$ npm install
+```
+then,
+```sh
+$ npm start run
+```
 ## Known Bugs
+Currently does not implement State in this version of the ValSlabShop React Project.
+Therefore, I do not correctly pass my ContactForm requests and SlabList array to the components in project that will use it in the future.
 
 ## Support
-
+Contact alexander.daniel.neumann@gmail.com
 ## Notes
+
