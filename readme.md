@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Setup/Installation](#Setup/Installation)
-- [Known Bugs](#Known Bugs)
+- [Known Bugs](#Bugs)
 - [Support](#Support)
 - [Notes](#Notes)
 
@@ -41,7 +41,7 @@ then,
 ```sh
 $ npm start run
 ```
-## Known Bugs
+## Bugs
 Currently does not implement State in this version of the ValSlabShop React Project.
 Therefore, I do not correctly pass my ContactForm requests and SlabList array to the components in project that will use it in the future.
 
