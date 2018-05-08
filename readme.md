@@ -1,11 +1,11 @@
 # Val Slab Shop in React[Version 1]
 
 ## Table of Contents
-[Introduction](#introduction)
-[Setup/Installation](#Setup/Installation)
-[Known Bugs](#Known Bugs)
-[Support](#Support)
-[Notes](#Notes)
+-[Introduction](#introduction)
+-[Setup/Installation](#Setup/Installation)
+-[Known Bugs](#Known Bugs)
+-[Support](#Support)
+-[Notes](#Notes)
 
 ## Introduction
 Val Slab shop is a website that I plan to develop over several years. As I hope to use it to try to solve complicated web development and business problems such as how to most effectively manage orders/contact so that this website can be used effectively to make a profit for a small compnay in Oregon.
@@ -47,4 +47,4 @@ Therefore, I do not correctly pass my ContactForm requests and SlabList array to
 ## Support
 Contact alexander.daniel.neumann@gmail.com
 ## Notes
-
+Note #1: Developing in React requires a firm understanding of what props and states are used for. Since they are the heavy duty "data-types" that allow React to know what variables we want the virtual dom to compare and contrast. I also have had a hard time understanding the intricacies of React and how to utilize its structure to optimize projects.
